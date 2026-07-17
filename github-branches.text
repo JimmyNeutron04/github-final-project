@@ -1,0 +1,4 @@
+theia@theia-armoredaveng:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv
+  bug-fix-revert d57f74c Revert "Ghanged year to 2023"
+  bug-fix-typo   89f606f Ghanged year to 2023
+* main           d57f74c [origin/main] Revert "Ghanged year to 2023"
